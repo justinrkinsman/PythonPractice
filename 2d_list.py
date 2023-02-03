@@ -1,4 +1,4 @@
-# List where each item in the list is another list
+# 2D List: list where each item in the list is another list
 
 matrix = [
     [1, 2, 3], 
