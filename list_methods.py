@@ -6,5 +6,7 @@ numbers.remove(5)
 numbers.pop()
 print(numbers.index(5))
 print(50 in numbers) #Won't cause error if number is not in numbers
-numbers.sort()
+#numbers.sort() #Prints numbers in order
+#numbers.reverse()
+numbers2 = numbers.copy()
 print(numbers)
