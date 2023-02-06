@@ -9,6 +9,3 @@ matrix = [
 for row in matrix:
     for item in row:
         print(item)
-
-
-# LIST METHODS: 2:06:08
