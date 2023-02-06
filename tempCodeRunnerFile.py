@@ -1,2 +1,2 @@
 
-        print("x")
+            output += symbols.get(symbol)
