@@ -1,3 +1,4 @@
+# my solution
 numbers = [6, 6, 7, 5, 2, 8, 2, 9, 9]
 current_number = 0
 
@@ -11,7 +12,10 @@ for number in numbers:
 print(numbers)
 
 
-#numbers.remove(5)
-#print(numbers.index(5))
-#print(50 in numbers)
-#numbers2 = numbers.copy()
+# Mosh's solution
+mosh_numbers = [2, 2, 4, 6, 3, 4, 6, 1]
+uniques = []
+for number in mosh_numbers:
+    if number not in uniques:
+        uniques.append(number)
+print(uniques)
