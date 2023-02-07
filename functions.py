@@ -11,5 +11,3 @@ def square(number):
     return number * number #All functions return the value "None by default"
 
 print(square(4))
-
-#Creating a Reusable Function 2:49:07
